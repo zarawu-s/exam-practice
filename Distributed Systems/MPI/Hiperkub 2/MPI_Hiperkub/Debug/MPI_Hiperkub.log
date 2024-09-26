@@ -1,6 +1,0 @@
-﻿  MPI_Hiperkub.cpp
-c:\users\user\source\repos\mpi_hiperkub\mpi_hiperkub\mpi_hiperkub.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\user\source\repos\mpi_hiperkub\mpi_hiperkub\mpi_hiperkub.cpp(23): warning C4101: 'request': unreferenced local variable
-c:\users\user\source\repos\mpi_hiperkub\mpi_hiperkub\mpi_hiperkub.cpp(15): warning C4101: 'pom': unreferenced local variable
-c:\users\user\source\repos\mpi_hiperkub\mpi_hiperkub\mpi_hiperkub.cpp(37): warning C4101: 'temp': unreferenced local variable
-  MPI_Hiperkub.vcxproj -> C:\Users\User\source\repos\MPI_Hiperkub\Debug\MPI_Hiperkub.exe
